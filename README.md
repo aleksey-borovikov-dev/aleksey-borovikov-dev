@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ### 👤 About Me
 
 * 📍 **Based in:** Belarus, Minsk
